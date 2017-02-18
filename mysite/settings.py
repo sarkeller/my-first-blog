@@ -25,7 +25,7 @@ SECRET_KEY = 'p53-5v+cy%z52$w%#2iqs1knfjgg3cg@bzt_&g@&r0@f863*40'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'sarkell.pythonanywhere.com']
 
 
 # Application definition

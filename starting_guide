@@ -1,0 +1,21 @@
+# how to start running python and co
+# 1. python3 -m venv myvenv
+# 2. source myvenv/bin/activate
+# 3. cd djangogirls
+# 4. python manage.py runserver
+
+# publish new content on pythonanywhere
+
+# terminal: command line
+# 1. git status
+# 2. git commit
+# 3. git add --all .
+# 4. git commit -m "<name of the change.>"
+# 5. git push
+
+# pythonanywhere console
+# 6. $ cd ~/my-first-blog
+# 7. $ git pull
+
+# pythonanywhere web
+# 8. Reload 
